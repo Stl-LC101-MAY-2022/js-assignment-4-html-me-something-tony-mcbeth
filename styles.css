@@ -1,10 +1,6 @@
 /* Write your CSS here! */
 body {
-    margin-top: 8px;
-    margin-bottom: 8px;
-    margin-right: 8px;
-    margin-left: 8px;
-
+    margin: 8px;
     display: block;
 }
 p {
@@ -18,7 +14,7 @@ p {
     color: green;
  }
 
- funParagraph {
+ .funParagraph {
     color: green
  }
  
